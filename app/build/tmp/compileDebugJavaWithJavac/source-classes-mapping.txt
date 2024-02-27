@@ -1,0 +1,56 @@
+com/mad/chitchat/MainActivity.java
+ com.mad.chitchat.MainActivity
+com/mad/chitchat/RecyclerAdapter.java
+ com.mad.chitchat.RecyclerAdapter
+ com.mad.chitchat.RecyclerAdapter$1
+ com.mad.chitchat.RecyclerAdapter$MyViewHolder
+ com.mad.chitchat.RecyclerAdapter$OnUserClickListener
+com/mad/chitchat/SearchRecyclerAdapter.java
+ com.mad.chitchat.SearchRecyclerAdapter
+ com.mad.chitchat.SearchRecyclerAdapter$1
+ com.mad.chitchat.SearchRecyclerAdapter$MyViewHolder
+ com.mad.chitchat.SearchRecyclerAdapter$OnUserClickListener
+com/mad/chitchat/Friends.java
+ com.mad.chitchat.Friends
+com/mad/chitchat/ChattingRecyclerAdapter.java
+ com.mad.chitchat.ChattingRecyclerAdapter
+ com.mad.chitchat.ChattingRecyclerAdapter$ChattingViewHolder
+ com.mad.chitchat.ChattingRecyclerAdapter$OnUserClickListener
+com/mad/chitchat/SearchUsers.java
+ com.mad.chitchat.SearchUsers
+com/mad/chitchat/BuildConfig.java
+ com.mad.chitchat.BuildConfig
+com/mad/chitchat/User.java
+ com.mad.chitchat.User
+com/mad/chitchat/ChattingPage.java
+ com.mad.chitchat.ChattingPage
+ com.mad.chitchat.ChattingPage$1
+ com.mad.chitchat.ChattingPage$2
+ com.mad.chitchat.ChattingPage$3
+com/mad/chitchat/ProfilePage.java
+ com.mad.chitchat.ProfilePage
+ com.mad.chitchat.ProfilePage$1
+ com.mad.chitchat.ProfilePage$2
+ com.mad.chitchat.ProfilePage$3
+ com.mad.chitchat.ProfilePage$3$1
+ com.mad.chitchat.ProfilePage$4
+ com.mad.chitchat.ProfilePage$5
+com/mad/chitchat/UsersPage.java
+ com.mad.chitchat.UsersPage
+ com.mad.chitchat.UsersPage$1
+ com.mad.chitchat.UsersPage$2
+ com.mad.chitchat.UsersPage$3
+ com.mad.chitchat.UsersPage$4
+ com.mad.chitchat.UsersPage$5
+ com.mad.chitchat.UsersPage$6
+ com.mad.chitchat.UsersPage$7
+ com.mad.chitchat.UsersPage$8
+com/mad/chitchat/RegisterPage.java
+ com.mad.chitchat.RegisterPage
+ com.mad.chitchat.RegisterPage$1
+ com.mad.chitchat.RegisterPage$1$1
+com/mad/chitchat/LoginPage.java
+ com.mad.chitchat.LoginPage
+ com.mad.chitchat.LoginPage$1
+ com.mad.chitchat.LoginPage$1$1
+ com.mad.chitchat.LoginPage$2
